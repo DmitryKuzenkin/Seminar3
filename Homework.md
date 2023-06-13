@@ -33,7 +33,6 @@ id sem consectetuer libero luctus adipiscing.
 >
 >     return shell_exec("echo $input | $markdown_script");
 
-
 ### Исходный код
 
 В чистом Маркдауне блоки кода отбиваются 4 пробелами в начале каждой строки.
